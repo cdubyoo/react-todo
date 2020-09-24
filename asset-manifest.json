@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.92bd934a.chunk.css",
+    "main.js": "/react-todo/static/js/main.4c6aa28c.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.4c6aa28c.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.1a7753af.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.1a7753af.js.map",
+    "static/js/2.25e11dd9.chunk.js": "/react-todo/static/js/2.25e11dd9.chunk.js",
+    "static/js/2.25e11dd9.chunk.js.map": "/react-todo/static/js/2.25e11dd9.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "precache-manifest.db1a5da6b6afb1817c386b5491e81f6d.js": "/react-todo/precache-manifest.db1a5da6b6afb1817c386b5491e81f6d.js",
+    "service-worker.js": "/react-todo/service-worker.js",
+    "static/css/main.92bd934a.chunk.css.map": "/react-todo/static/css/main.92bd934a.chunk.css.map",
+    "static/js/2.25e11dd9.chunk.js.LICENSE.txt": "/react-todo/static/js/2.25e11dd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a7753af.js",
+    "static/js/2.25e11dd9.chunk.js",
+    "static/css/main.92bd934a.chunk.css",
+    "static/js/main.4c6aa28c.chunk.js"
+  ]
+}
